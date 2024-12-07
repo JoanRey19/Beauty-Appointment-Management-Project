@@ -1,0 +1,91 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: #f5f5dc;
+}
+
+.display-4 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
+    color: #000000;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.letrabonita {
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.5rem !important;
+    color: #000000;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.navbar-brand {
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
+    color: #000000;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
+    color: #000000;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.fa-3x {
+    font-size: 40px;
+}
+
+
+a:hover i {
+    color: #ff6347; 
+}
+
+
+.container p {
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.WhatsApp-icon i {
+    color: #00FF00; 
+}
+
+.Instagram-icon i {
+    color: #ff0000; 
+}
+
+.Gmail-icon i {
+    color: #0094ff; 
+}
+
+.Facebook-icon i {
+    color: #258cfb; 
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
+}
